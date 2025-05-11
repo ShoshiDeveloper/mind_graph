@@ -1,3 +1,3 @@
 # mind_graph
 
-A new Flutter project.
+Pet-project by Pavel Lobachev
